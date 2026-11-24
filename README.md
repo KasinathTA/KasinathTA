@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @KasinathTA
-- 👀 I’m interested in CARS
-- 🌱 I’m currently learning 12th
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently @SJCET PALAI BTech in ER 
 - 📫 How to reach me Mail me @ kasinath057@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I'm 17 Yo
+- ⚡ Fun fact: I'm 18 Yo
 
 <!---
 KasinathTA/KasinathTA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
